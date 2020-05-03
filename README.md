@@ -1,15 +1,16 @@
-# BP_Project
-# 프로젝트명
-> 간략한 프로젝트 소개 문구를 작성합니다.
+# Blue People Android app
+
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-한 두 문단으로 프로젝트 소개 글을 작성합니다.
+‘블루피플(Blue People)’은 현지 문화를 즐기고 싶은 국내 자유여행객에게 현지인 매칭을 통해 온라인으로 맞춤형 정보를 제공하는 애플리케이션이다.
 
-![](../header.png)
 
-## 설치 방법
+<img src="https://user-images.githubusercontent.com/41819129/80911184-c1c4ae00-8d6f-11ea-85d7-80017a1762c6.png" width="40%">
+
+
+## 프로젝트 일정
 
 OS X & 리눅스:
 
@@ -29,7 +30,7 @@ edit autoexec.bat
 
 _더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
 
-## 개발 환경 설정
+## 개발 환경
 
 모든 개발 의존성 설치 방법과 자동 테스트 슈트 실행 방법을 운영체제 별로 작성합니다.
 

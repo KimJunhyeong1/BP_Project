@@ -11,17 +11,10 @@
 
 ## 프로젝트 일정
 
-OS X & 리눅스:
+* `2019-09` 프로젝트 팀원 구성 및 개발 시작
+* `2019-12` 프로젝트 팀원 추가
+* `2020-04` 프로젝트 프로토타입 완성
 
-```sh
-npm install my-crazy-module --save
-```
-
-윈도우:
-
-```sh
-edit autoexec.bat
-```
 
 ## 사용 예제
 
@@ -31,7 +24,9 @@ _더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
 
 ## 개발 환경
 
-모든 개발 의존성 설치 방법과 자동 테스트 슈트 실행 방법을 운영체제 별로 작성합니다.
+* [Android Studio 3.6](https://firebase.google.com/docs/reference/android/packages?hl=ko)
+* [Firebase](https://firebase.google.com/docs/reference/android/packages?hl=ko)
+* 
 
 ```sh
 make install

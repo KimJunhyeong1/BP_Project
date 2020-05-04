@@ -7,7 +7,9 @@
 ‘블루피플(Blue People)’은 현지 문화를 즐기고 싶은 국내 자유여행객에게 현지인 매칭을 통해 온라인으로 맞춤형 정보를 제공하는 애플리케이션이다.
 
 
-<img src="https://user-images.githubusercontent.com/41819129/80935597-50850980-8e08-11ea-87b1-25109dedb6b1.png" width="100%">
+<img src="https://user-images.githubusercontent.com/41819129/80935820-60e9b400-8e09-11ea-971e-e5493a46e9ed.png" width="100%">
+
+<img src="https://user-images.githubusercontent.com/41819129/80936009-4532dd80-8e0a-11ea-8dbe-9ad798d90b38.png" width="100%">
 
 ## 프로젝트 일정
 

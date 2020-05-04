@@ -21,6 +21,8 @@
 
 * [Android Studio 3.6](https://developer.android.com/studio/releases)
 * [Firebase](https://firebase.google.com/docs/reference/android/packages?hl=ko)
+* [Maps SDK for Android](https://developers.google.com/maps/documentation/android-sdk/intro)
+* [Places SDK for Android](https://developers.google.com/places/android-sdk/intro)
 
 ## 내 역활
 

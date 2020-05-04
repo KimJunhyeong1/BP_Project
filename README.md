@@ -2,7 +2,7 @@
 
 
 
-**‘블루피플(Blue People)’은 현지 문화를 즐기고 싶은 국내 자유여행객에게 현지인 매칭을 통해 온라인으로 맞춤형 정보를 제공하는 애플리케이션이다.**
+**‘블루피플(Blue People)’은 현지 문화를 즐기고 싶은 국내 자유여행객에게 현지인 매칭을 통해 온라인으로 맞춤형 정보를 제공하는 애플리케이션.**
 
 
 <img src="https://user-images.githubusercontent.com/41819129/80935820-60e9b400-8e09-11ea-971e-e5493a46e9ed.png" width="100%">
@@ -14,24 +14,13 @@
 * `2019-09` 프로젝트 팀원 구성 및 개발 시작
 * `2019-12` 프로젝트 팀원 추가
 * `2020-04` 프로젝트 프로토타입 완성
+* `2020-05` Play Store 출시 예정
 
-
-## 사용 예제
-
-스크린 샷과 코드 예제를 통해 사용 방법을 자세히 설명합니다.
-
-_더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
 
 ## 개발 환경
 
-* [Android Studio 3.6](https://firebase.google.com/docs/reference/android/packages?hl=ko)
+* [Android Studio 3.6](https://developer.android.com/studio/releases)
 * [Firebase](https://firebase.google.com/docs/reference/android/packages?hl=ko)
-* 
-
-```sh
-make install
-npm test
-```
 
 ## 업데이트 내역
 

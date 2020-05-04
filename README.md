@@ -1,10 +1,8 @@
 # Blue People Android app
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
-‘블루피플(Blue People)’은 현지 문화를 즐기고 싶은 국내 자유여행객에게 현지인 매칭을 통해 온라인으로 맞춤형 정보를 제공하는 애플리케이션이다.
+
+**‘블루피플(Blue People)’은 현지 문화를 즐기고 싶은 국내 자유여행객에게 현지인 매칭을 통해 온라인으로 맞춤형 정보를 제공하는 애플리케이션이다.**
 
 
 <img src="https://user-images.githubusercontent.com/41819129/80935820-60e9b400-8e09-11ea-971e-e5493a46e9ed.png" width="100%">

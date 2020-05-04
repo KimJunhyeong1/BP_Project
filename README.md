@@ -30,8 +30,8 @@
 * Firebase FireStroe에 회원정보 저장 기능 구현
 * Firebase FireStroe에 데이터 이용 랭킹 기능 구현
 * Firebase Realtime Database 연동 채팅 기능 구현
-* Google Maps Api 이용 채팅방 내 커스텀 마커,인포윈도우 구축
-* Google Maps Api, Firebase Realtime Database 이용 마커,인포윈도우 동기화 기능 구현
+* Google Maps API 이용 채팅방 내 커스텀 마커,인포윈도우 구축
+* Google Maps API, Firebase Realtime Database 이용 마커,인포윈도우 동기화 기능 구현
 
 
 ## 정보
